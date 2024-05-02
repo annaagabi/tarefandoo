@@ -1,15 +1,15 @@
 {
   "expo": {
-    "name": "todolist",
-    "slug": "todolist",
+    "name": "Tarefandoo",
+    "slug": "tarefandoo",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./src/assets/tarefandoo-mini-icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./src/assets/TAREFANDOO.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#8E7CC3"
     },
     "assetBundlePatterns": [
       "**/*"
